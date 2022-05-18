@@ -1,1 +1,1 @@
-branch -d master
+git pull https://github.com/Tekle21/alx-pre_course.git
